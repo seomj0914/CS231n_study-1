@@ -1,13 +1,15 @@
 # CS231n_study / Notion Link
 * BOAZ 19/20th Winter study, CS231n repository  
+* Session Date: Wed, 22:30 (PM 10:30)
 * Notion Link: [Notion](https://url.kr/4bin67)
+* Zoom Link: [Zoom](https://korea-ac-kr.zoom.us/j/96772869170?pwd=U1ZiSHJFeWJ6QXVNdHg3Z2JWMHM1Zz09)
 
 # First week introduction
 * 첫번째 주, 즉 01/18(수)에는 간단한 수학에 대해서 다룰 예정입니다.
 * 선형대수학(벡터, 행렬) 및 Trace, 그리고 내적까지 다룰 예정이며, 벡터 미적분학에 대해서도 조금 다룰 예정입니다. (Gradient)
 * 시간이 되면 Further Reading으로 Information Theory에 대한 내용도 올릴 예정입니다.
 * 마지막엔 Numpy에 대해 중요한 몇몇가지를 알아볼 예정입니다.
-* 줌(or google meet)으로 이루어집니다.
+* 줌(or google meet)으로 이루어집니다. (Refer above link!)
 
 ---
 # Role of Branch
