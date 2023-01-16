@@ -1,6 +1,8 @@
 # CS231n_study / Notion Link
 * BOAZ 19/20th Winter study, CS231n repository  
+* Session Date: Wed, 22:30 (PM 10:30)
 * Notion Link: [Notion](https://url.kr/4bin67)
+* Zoom Link: [Zoom](https://korea-ac-kr.zoom.us/j/96772869170?pwd=U1ZiSHJFeWJ6QXVNdHg3Z2JWMHM1Zz09)
 
 # Introduction of Assignment #1
 * Assignment는 간단한 Machine Learning 및 Backpropagation에 주력을 두는 단원입니다.
