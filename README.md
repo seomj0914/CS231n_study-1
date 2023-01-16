@@ -1,6 +1,8 @@
 # CS231n_study / Notion Link
 * BOAZ 19/20th Winter study, CS231n repository  
+* Session Date: Wed, 22:30 (PM 10:30)
 * Notion Link: [Notion](https://url.kr/4bin67)
+* Zoom Link: [Zoom](https://korea-ac-kr.zoom.us/j/96772869170?pwd=U1ZiSHJFeWJ6QXVNdHg3Z2JWMHM1Zz09)
 
 # Introduction
 * 01/18(수) 부터 7주간 CS231n의 모든 기록이 저장될 Github Repository입니다.
