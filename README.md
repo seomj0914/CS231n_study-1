@@ -26,6 +26,15 @@
 * 설문 링크는 01/20(금) 공개됩니다.
     * [(Remind)설문 조사 링크](https://forms.gle/xGHBMjkTgrAZg3Hs8)
 * 모든 분들은 답을 **01/22(일)**까지 해주세요. 이후, 발표 주제를 사다리타기로 뽑을 예정입니다.
+
+# (Advanced) New Learning Method(Not backpropagation!!)
+* 2022년 후반기에 딥러닝의 대가 힐튼 교수가 아주 흥미로운 연구 결과를 내 놓았습니다.
+* (위의 수업에서 배우는) Backpropagation이 가지고 있는 문제점을 고치기 위한 학습 방법입니다.
+    * Backpropagation을 위해서는 모델의 전체 구조 및 cache를 들고 있어야 한다는 단점이 있습니다.
+    * 모델이 커지면 커질수록 학습 시간이 기하급수적으로 늘어나서 이걸 최적화하기 위한 연구가 활발히 이루어지고 있죠 (e.g. Deepspeed, 8-bit precision, ..)
+* Forward Forward Method인데, 관심 있으신분들은 Backprop 이해 이후 한번 읽어보셔도 좋을 것 같습니다.
+    * [Paper Link](https://www.cs.toronto.edu/~hinton/FFA13.pdf)
+
 ---
 # Role of Branch
 * Branch에는 Assignment #1와 Assignment #2, 그리고 1주차에 대한 내용이 들어가게 됩니다.
