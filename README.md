@@ -8,6 +8,15 @@
 * Assignment는 간단한 Machine Learning 및 Backpropagation에 주력을 두는 단원입니다.
 * 첫번쨰주에 소개했던 Trace Trick을 잘 활용하면 SVM, Softmax, Two Layer 모두 쉽게 구현하실 수 있을 겁니다!
 
+# Cover of Assignment #1
+* 모든 스터디 진행인원은 **Lecture 1 - Lecture 4**까지 수강하여야 합니다.
+    * Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition
+    * Lecture 2 | Image Classification
+    * Lecture 3 | Loss Functions and Optimization
+    * Lecture 4 | Introduction to Neural Networks
+* 시청 이후 흥미로운 사실이나 질문 사항을 아래 설문을 통해 작성합니다.
+    * * [설문 조사 링크](https://forms.gle/xGHBMjkTgrAZg3Hs8)
+
 # Assignment #1 study materials
 * [Assignment 1 Info](https://cs231n.github.io/assignments2022/assignment1/)
 * [~ Lecutre 4](http://cs231n.stanford.edu/schedule.html)
@@ -15,7 +24,7 @@
 
 # 질문 설문 링크
 * 설문 링크는 01/20(금) 공개됩니다.
-    * [설문 조사 링크](https://forms.gle/xGHBMjkTgrAZg3Hs8)
+    * [(Remind)설문 조사 링크](https://forms.gle/xGHBMjkTgrAZg3Hs8)
 * 모든 분들은 답을 **01/22(일)**까지 해주세요. 이후, 발표 주제를 사다리타기로 뽑을 예정입니다.
 ---
 # Role of Branch
