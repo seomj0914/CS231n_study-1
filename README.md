@@ -33,7 +33,7 @@
     * Backpropagation을 위해서는 모델의 전체 구조 및 cache를 들고 있어야 한다는 단점이 있습니다.
     * 모델이 커지면 커질수록 학습 시간이 기하급수적으로 늘어나서 이걸 최적화하기 위한 연구가 활발히 이루어지고 있죠 (e.g. Deepspeed, 8-bit precision, ..)
 * Forward Forward Method인데, 관심 있으신분들은 Backprop 이해 이후 한번 읽어보셔도 좋을 것 같습니다.
-    * [Paper Link](https://www.cs.toronto.edu/~hinton/FFA13.pdf)
+    * [The Forward-Forward Algorithm: Some Preliminary Investigations, Hinton](https://www.cs.toronto.edu/~hinton/FFA13.pdf)
 
 ---
 # Role of Branch
