@@ -15,7 +15,7 @@
     * Lecture 3 | Loss Functions and Optimization
     * Lecture 4 | Introduction to Neural Networks
 * 시청 이후 흥미로운 사실이나 질문 사항을 아래 설문을 통해 작성합니다.
-    * * [설문 조사 링크](https://forms.gle/xGHBMjkTgrAZg3Hs8)
+    * [설문 조사 링크](https://forms.gle/xGHBMjkTgrAZg3Hs8)
 
 # Assignment #1 study materials
 * [Assignment 1 Info](https://cs231n.github.io/assignments2022/assignment1/)
@@ -25,7 +25,7 @@
 # 질문 설문 링크
 * 설문 링크는 01/20(금) 공개됩니다.
     * [(Remind)설문 조사 링크](https://forms.gle/xGHBMjkTgrAZg3Hs8)
-* 모든 분들은 답을 **01/22(일)**까지 해주세요. 이후, 발표 주제를 사다리타기로 뽑을 예정입니다.
+* 모든 분들은 답을 **01/22(일)** 까지 해주세요. 이후, 발표 주제를 사다리타기로 뽑을 예정입니다.
 
 # (Advanced) New Learning Method(Not backpropagation!!)
 * 2022년 후반기에 딥러닝의 대가 힐튼 교수가 아주 흥미로운 연구 결과를 내 놓았습니다.
