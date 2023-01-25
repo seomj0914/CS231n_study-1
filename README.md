@@ -3,7 +3,15 @@
 * Session Date: Wed, 22:30 (PM 10:30)
 * Notion Link: [Notion](https://url.kr/4bin67)
 * Zoom Link: [Zoom](https://korea-ac-kr.zoom.us/j/96772869170?pwd=U1ZiSHJFeWJ6QXVNdHg3Z2JWMHM1Zz09)
-
+---
+# How can I resolve things I don't know while coding?
+* 코딩 과제를 하시게 되면, 무난하게 흘러가는 부분도 있을 것이고 모르는 부분도 있을 것이라고 생각이 됩니다.
+* 특히, 주요 부분을 벡터화해서 구현하는 부분은 쉽지 않으실분들이 많을텐데, 그런 분들은 모르는 부분을 **issue** 탭에 올려주세요.
+    * 올려주실 때, `[Assignment #{과제번호}][Q{과제번호}][파일명] 막히는 부분 1줄평` 으로 이름 지어서 작성해주세요.
+    * 예를 들어, Assignment #1의 Q2번 중 svm.ipynb를 코딩하다가, 파라미터 튜닝이 막히셨다면 `[Assignment #1][Q2][svm.ipynb] 하이퍼파리미터 튜닝`이라고 제목을 지으시고, 내용은 자유롭게 어떻게 접근하셔서 어느 부분이 막히셨는지 작성해주시면 됩니다.
+* 확인 후 만일 댓글이 없으면 제가 답 드리고, 뭐 여러분들끼리 자정작용으로 하셔도 됩니다.
+* Issue 탭은 수시로 확인해주세요.
+---
 # Introduction of Assignment #1
 * Assignment는 간단한 Machine Learning 및 Backpropagation에 주력을 두는 단원입니다.
 * 첫번쨰주에 소개했던 Trace Trick을 잘 활용하면 SVM, Softmax, Two Layer 모두 쉽게 구현하실 수 있을 겁니다!
@@ -34,14 +42,6 @@
     * 모델이 커지면 커질수록 학습 시간이 기하급수적으로 늘어나서 이걸 최적화하기 위한 연구가 활발히 이루어지고 있죠 (e.g. Deepspeed, 8-bit precision, ..)
 * Forward Forward Method인데, 관심 있으신분들은 Backprop 이해 이후 한번 읽어보셔도 좋을 것 같습니다.
     * [The Forward-Forward Algorithm: Some Preliminary Investigations, Hinton](https://www.cs.toronto.edu/~hinton/FFA13.pdf)
----
-# How can I resolve things I don't know while coding?
-* 코딩 과제를 하시게 되면, 무난하게 흘러가는 부분도 있을 것이고 모르는 부분도 있을 것이라고 생각이 됩니다.
-* 특히, 주요 부분을 벡터화해서 구현하는 부분은 쉽지 않으실분들이 많을텐데, 그런 분들은 모르는 부분을 **issue** 탭에 올려주세요.
-    * 올려주실 때, `[Assignment #{과제번호}][Q{과제번호}][파일명] 막히는 부분 1줄평` 으로 이름 지어서 작성해주세요.
-    * 예를 들어, Assignment #1의 Q2번 중 svm.ipynb를 코딩하다가, 파라미터 튜닝이 막히셨다면 `[Assignment #1][Q2][svm.ipynb] 하이퍼파리미터 튜닝`이라고 제목을 지으시고, 내용은 자유롭게 어떻게 접근하셔서 어느 부분이 막히셨는지 작성해주시면 됩니다.
-* 확인 후 만일 댓글이 없으면 제가 답 드리고, 뭐 여러분들끼리 자정작용으로 하셔도 됩니다.
-* Issue 탭은 수시로 확인해주세요.
 ---
 # Role of Branch
 * Branch에는 Assignment #1와 Assignment #2, 그리고 1주차에 대한 내용이 들어가게 됩니다.
